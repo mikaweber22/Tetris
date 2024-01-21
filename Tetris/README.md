@@ -1,16 +1,26 @@
-1. Files
+1. Bildschrim
 
-1.1 logik
-1.2 __main_
-1.3 test
+1.1 [] Bildschrim größen Definieren
+1.2 [] Bildschrim erstellen
+1.3 [] Bildschrim erscheinen lassen
 
-2. Bildschirm
 
-2.1 Bildschirm erstellen 
-2.2 Bildschirm erscheinen lassen
-2.3 Blöcke erstellen
-2.4 Alle Blöcke auf den Bildschirm bringen
-2.5 Boden und Decke einrichten 
-2.6 Blöcke Fallen lassen
-2.7 Wenn blöckee sich berühen fallender block steeeht
-2.8
+
+
+
+
+
+
+2. Blöcke 
+
+2.1 [] T Block erstellen        
+2.2 [] L Block erstellen
+2.3 [] Q Block erstellen
+2.4 [] S L Block erstellen
+2.5 [] Tr Block erstellen
+2.6 [] S Block erstellen
+2.7 [] Z Block erstellen
+
+
+
+
